@@ -23,10 +23,10 @@ body{
 }
 
 .link{
-    background-color: #F0F0F0;
+    background-color: #3c463c;
     display:inline-block;
     width:320px;
-    color:black;
+    color:white;
     text-decoration: none;
     padding: 10px;
     border-radius: 10px;
