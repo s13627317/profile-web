@@ -11,7 +11,7 @@ body{
 }
 
 .name{
-    font-size: 26px;
+    font-size: 30px;
     margin-bottom: 4px;
     font-style: italic;
 }
@@ -39,5 +39,5 @@ footer{
 
 .hello{
     font-style: italic;
-    color: blue;
+    color: yellow;
 }
